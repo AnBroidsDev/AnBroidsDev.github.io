@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anbroids&lt;br/&gt;Android development.</title>
+    <atom:link href="AnBroidsDev.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>AnBroidsDev.github.io/</link>
+    <description>Android development topics and blog</description>
+    <pubDate>Wed, 14 Jan 2015 17:07:18 +0100</pubDate>
+    
+      <item>
+        <title>Hello world!</title>
+        <link>AnBroidsDev.github.io/2015/01/14/hello-world.html</link>
+        <guid isPermaLink="true">AnBroidsDev.github.io/2015/01/14/hello-world.html</guid>
+        <description>&lt;p&gt;Hello anbroids! &lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;n&quot;&gt;String&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hello&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Hello World!&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Log&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;anBroids&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Wed, 14 Jan 2015 00:00:00 +0100</pubDate>
+      </item>
+    
+  </channel>
+</rss>
